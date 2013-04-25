@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="gb2312"?>
+<PageList BackgroundImage="media/bg.jpg" BackgroundMusic="media/bgmedia.mp3">
+<Cover url="pages/cover.swf" tips="这是封面" paper="cover1"/>
+<Indexs>
+	<Page id="" url="pages/menu.gif" tips="目录一" paper="index"/>
+</Indexs>
+<Labels>
+	<Label title="第一天一" PageStart="1" PageEnd="22"/>
+	<Label title="第二天一" PageStart="25" pageend="32"/>
+	<Label title="第三天一" PageStart="33" PageEnd="38"/>
+	<Label title="第四天一" PageStart="39" PageEnd="42"/>
+	<Label title="第五天一" PageStart="45" PageEnd="46"/>
+	<Label title="g g g一" url="http://t.163.com"/>
+</Labels>
+<pages> <Page id="1" url="pages/p001.swf" tips="第1页 登岛"/>
+        <Page id="2" url="pages/p002.swf" tips="第2页 住宿"/>  
+        <Page id="3" url="pages/p003.swf" tips="第3页 日出日落"/>       
+	<Page id="4" url="pages/p004.swf" tips="第4页 岛上的悠闲生活"/>
+	<Page id="5" url="pages/p005.swf" tips="第5页 岛上生活"/>
+	<Page id="6" url="pages/p006.swf" tips="第6页 偶然遇到的彩虹"/>
+	<Page id="7" url="pages/p007.swf" tips="第7页 水清沙白"/>
+	<Page id="7" url="pages/p008.swf" tips="第8页 水声树影"/>
+</pages>
+<Cover url="pages/coverb.swf" tips="这是封底" paper="cover2"/>
+</PageList>
