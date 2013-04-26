@@ -5,12 +5,12 @@
 	<Page id="" url="pages/menu.gif" tips="目录一" paper="index"/>
 </Indexs>
 <Labels>
-	<Label title="第一天一" PageStart="1" PageEnd="22"/>
-	<Label title="第二天一" PageStart="25" pageend="32"/>
-	<Label title="第三天一" PageStart="33" PageEnd="38"/>
-	<Label title="第四天一" PageStart="39" PageEnd="42"/>
-	<Label title="第五天一" PageStart="45" PageEnd="46"/>
-	<Label title="g g g一" url="http://t.163.com"/>
+	<Label title="1" PageStart="1" PageEnd="2"/>
+	<Label title="2" PageStart="3" pageend="4"/>
+	<Label title="3" PageStart="5" PageEnd="6"/>
+	<Label title="4" PageStart="7" PageEnd="8"/>
+	<Label title="5" PageStart="9" PageEnd="12"/>
+	<Label title="6" url="http://54chen.com"/>
 </Labels>
 <pages> <Page id="1" url="pages/p001.swf" tips="第1页 登岛"/>
         <Page id="2" url="pages/p002.swf" tips="第2页 住宿"/>  
@@ -19,7 +19,11 @@
 	<Page id="5" url="pages/p005.swf" tips="第5页 岛上生活"/>
 	<Page id="6" url="pages/p006.swf" tips="第6页 偶然遇到的彩虹"/>
 	<Page id="7" url="pages/p007.swf" tips="第7页 水清沙白"/>
-	<Page id="7" url="pages/p008.swf" tips="第8页 水声树影"/>
+	<Page id="8" url="pages/p008.swf" tips="第8页 水声树影"/>
+	<Page id="9" url="pages/p009.swf" tips="第9页 角度之美"/>
+	<Page id="10" url="pages/p010.swf" tips="第10页 宁静的夏天"/>
+	<Page id="11" url="pages/p011.swf" tips="第11页 旖旎如画"/>
+	<Page id="12" url="pages/p012.swf" tips="第12页 马累"/>
 </pages>
 <Cover url="pages/coverb.swf" tips="这是封底" paper="cover2"/>
 </PageList>
