@@ -2,7 +2,7 @@
 <PageList BackgroundImage="media/bg.jpg" BackgroundMusic="media/bgmedia.mp3">
 <Cover url="pages/cover.swf" tips="这是封面" paper="cover1"/>
 <Indexs>
-	<Page id="" url="pages/menu.gif" tips="目录一" paper="index"/>
+	<Page id="" url="pages/index.swf" tips="目录一" paper="index"/>
 </Indexs>
 <Labels>
 	<Label title="1" PageStart="1" PageEnd="2"/>
